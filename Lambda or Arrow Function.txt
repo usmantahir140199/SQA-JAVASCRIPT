@@ -1,0 +1,1 @@
+The Arrow lambda function is a concise form of a normal function in Typescript. Arrow functions are also known as lambda functions. We use “=” (arrow symbol) in the arrow function and we do not use the 'function' keyword. We can use this method when we want our code to be short and not call the function each time.
